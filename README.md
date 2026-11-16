@@ -1,4 +1,21 @@
-## Hi there 👋
+# Oi, eu sou o Isaac 👋
+
+Squad Leader e Analista de Sistemas. Lidero dois times de automação de processos e desenvolvimento de soluções, e faço a ponte entre quem tem o problema e quem constrói a solução.
+
+Além de liderar, coloco a mão na massa: desenvolvo apps e integrações na nuvem usando IA em todo o processo, do protótipo validado com o usuário até a solução rodando. Gosto de começar pelo problema real, testar rápido e só depois escalar.
+
+## Cases
+
+**[Quanto Sobra]()**
+Conceito para restaurantes pequenos descobrirem quanto sobra de verdade em cada prato. O dono manda a foto do cupom da compra, a IA lê os itens, o QR Code confere a soma e o app calcula o custo real.
+[Protótipo](https://claude.ai/artifact/82RWWGiC6oLCt7ypgLZSPk#page-45e5d4467e2d) · [Vídeo de 2 min](https://youtu.be/S490nYsu4s0)
+
+**Robô de requisição de compras** (em breve)
+Automação que abre requisições de compra a partir dos pedidos das áreas, em piloto numa empresa do agronegócio.
+
+## Contato
+   
+[LinkedIn](https://www.linkedin.com/in/isaac-melo-81b7211bb/)## Hi there 👋
 
 <!--
 **IsaacFelippe/IsaacFelippe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
