@@ -6,7 +6,7 @@ Além de liderar, coloco a mão na massa: desenvolvo apps e integrações na nuv
 
 ## Cases
 
-**[Quanto Sobra]()**
+**[Quanto Sobra](https://github.com/IsaacFelippe/quanto-sobra)**
 Conceito para restaurantes pequenos descobrirem quanto sobra de verdade em cada prato. O dono manda a foto do cupom da compra, a IA lê os itens, o QR Code confere a soma e o app calcula o custo real.
 [Protótipo](https://claude.ai/artifact/82RWWGiC6oLCt7ypgLZSPk#page-45e5d4467e2d) · [Vídeo de 2 min](https://youtu.be/S490nYsu4s0)
 
