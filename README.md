@@ -15,7 +15,7 @@ Automação que abre requisições de compra a partir dos pedidos das áreas, em
 
 ## Contato
    
-[LinkedIn](https://www.linkedin.com/in/isaac-melo-81b7211bb/)## Hi there 👋
+[LinkedIn](https://www.linkedin.com/in/isaac-melo-81b7211bb/)
 
 <!--
 **IsaacFelippe/IsaacFelippe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
